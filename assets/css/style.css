@@ -384,3 +384,13 @@ footer {
     margin: 0 auto;
 }
 }
+
+
+/*Map div*/
+
+
+.mapdiv {
+    width: 100vw;
+    height: auto;
+    border-radius: 10px;
+}
